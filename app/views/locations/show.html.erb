@@ -1,0 +1,28 @@
+<p id="notice"><%= notice %></p>
+<p>
+  <b>ID:</b>
+  <%= @location.id %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @location.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @location.description %>
+</p>
+
+<p>
+  <b>GIS:</b>
+  <%= @location.gis %>
+</p>
+
+<p>
+  <b>Image:</b>
+  <%= @location.image_id %>
+</p>
+
+<%= link_to 'Edit', edit_location_path(@location) %> |
+<%= link_to 'Back', locations_path %>

@@ -1,0 +1,40 @@
+<p id="notice"><%= notice %></p>
+<p>
+  <b>Tag:</b>
+  <%= @sighting.tag %>
+</p>
+<p>
+  <b>Common name:</b>
+  <%= @sighting.organism.common_name %>
+</p>
+<p>
+  <b>Length:</b>
+  <%= @sighting.length %>
+</p>
+<p>
+  <b>Weight:</b>
+  <%= @sighting.weight %>
+</p>
+<p>
+  <b>Parasite:</b>
+  <%= @sighting.parasite %>
+</p>
+<p>
+  <b>Location:</b>
+  <%= @sighting.location.name %>
+</p>
+<p>
+  <b>Date:</b>
+  <%= @sighting.date %>
+</p>
+<p>
+  <b>Note:</b>
+  <%= @sighting.note %>
+</p>
+<p>
+  <b>Recorder:</b>
+  <%= @sighting.user.lastname %>
+</p>
+
+<%= link_to 'Edit', edit_sighting_path(@sighting) %> |
+<%= link_to 'Back', sightings_path %>

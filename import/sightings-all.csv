@@ -1,0 +1,580 @@
+1,1,28,206.3,nil,3,2009-6-22,hook and line,1
+1,1,28,202,nil,3,2009-7-17,hook and line,1
+2,1,29.5,233.6,nil,3,2009-6-22,hook and line,1
+2,1,30,228,true,3,2009-8-14,small black parasites,1
+3,1,27.5,202.3,nil,3,2009-6-22,hook and line,1
+3,1,27.5,182,nil,3,2009-8-15,hook and line,1
+4,1,33,342.3,nil,3,2009-6-22,hook and line,1
+5,1,28.5,252.9,nil,3,2009-6-22,hook and line,1
+5,1,28.5,255,true,3,2009-8-14,cyst (?) on gill plate,1
+6,1,27,183.2,nil,3,2009-6-22,hook and line,1
+6,1,27,195,nil,3,2009-7-17,hook and line,1
+6,1,26.8,205.4,nil,3,nil,nil,nil
+7,1,28.5,272.5,nil,3,2009-6-22,hook and line,1
+7,1,29.5,251,nil,3,2009-8-15,hook and line,1
+8,1,30,288.6,nil,3,2009-6-22,hook and line,1
+9,1,29.5,210.5,nil,3,2009-6-22,hook and line,1
+9,1,28.9,240.3,nil,3,2009-9-2,hook and line,15
+9,1,29,225.7,nil,3,2009-9-17,hook and line,11
+9,1,29.5,271.6,nil,4,2010-9-21,hook and line,16
+10,1,30.5,266.7,nil,3,2009-6-22,hook and line,1
+11,2,19.5,182.9,nil,3,2009-6-18,hook and line,1
+12,1,29,264.2,nil,3,2009-6-18,hook and line,1
+13,1,29,266.7,nil,3,2009-6-18,hook and line,1
+13,1,29,285,nil,3,2009-8-3,hook and line,1
+14,1,28,207.6,nil,4,2009-6-18,hook and line,1
+15,1,28,227.6,nil,4,2009-6-18,hook and line,1
+16,2,20,193.1,nil,4,2009-6-18,hook and line,1
+17,1,31.5,301.3,nil,4,2009-6-18,hook and line,1
+17,1,31.5,315,nil,4,2009-8-3,slight contusion at tag site,1
+18,1,29,262.3,nil,4,2009-6-18,hook and line,1
+18,1,29,284,nil,4,2009-8-3,slight contusion at tag site,1
+19,2,20.5,202,nil,4,2009-6-18,hook and line,1
+20,2,21,208.5,nil,4,2009-6-18,seine net,1
+21,1,28,259,nil,3,2009-6-18,hook and line,1
+21,1,28.6,258.3,nil,3,2009-9-2,hook and line,15
+22,1,28.5,250.3,nil,3,2009-6-18,hook and line,1
+23,1,27,199.4,nil,3,2009-7-10,hook and line,1
+24,1,28,203.2,nil,3,2009-7-10,hook and line,1
+25,1,26.5,185.4,nil,3,2009-7-10,hook and line,1
+26,1,29,235,nil,3,2009-7-17,hook and line,1
+27,1,nil,nil,nil,3,2010-9-3,hook and line,Bio Picnic
+27,1,28,211,nil,3,2009-7-17,hook and line,1
+27,1,29,260,nil,3,2010-9-23,hook and line,8
+28,1,28,227,nil,3,2009-7-17,hook and line,1
+29,1,30,247,nil,3,2009-7-17,hook and line,1
+29,1,29,242,nil,3,2009-8-15,hook and line,1
+29,1,28.2,250.5,nil,3,nil,nil,nil
+30,1,29,237,nil,3,2009-7-17,hook and line,1
+31,1,28,186,nil,3,2009-7-17,hook and line,1
+31,1,27.5,270,nil,3,2009-9-15,nil,13
+32,2,16,70,nil,2,2009-7-20,Fly Fishing,1
+32,2,19,110.1,nil,2,2010-9-21,hook and line,7
+33,2,16.5,85,nil,2,2009-7-20,Fly Fishing,1
+34,3,16,74,nil,2,2009-7-20,Fly Fishing,1
+35,2,17,85,nil,2,2009-7-20,Fly Fishing,1
+36,2,16.5,85,nil,2,2009-7-20,Fly Fishing,1
+37,2,16.5,71,nil,2,2009-7-20,Fly Fishing,1
+37,2,18,90.1,nil,2,2010-9-20,hook and line,9
+38,2,21,148,nil,2,2009-7-20,Fly Fishing,1
+39,2,15.5,57,nil,2,2009-7-20,Fly Fishing,1
+40,2,18,102,nil,2,2009-7-20,Fly Fishing,1
+40,2,18.5,154,nil,2,2010-9-20,hook and line,9
+41,2,16.5,77,nil,2,2009-7-20,Fly Fishing,1
+42,2,16.5,67,nil,2,2009-7-20,Fly Fishing,1
+43,2,17,74,nil,2,2009-7-20,Fly Fishing,1
+43,2,17,87.4,nil,2,2009-9-15,nil,10
+43,2,19.5,122.7,nil,2,2010-10-14,hook and line,5 
+44,2,16,73,nil,2,2009-7-20,Fly Fishing,1
+44,2,15,80.3,nil,2,2010-9-21,hook and line,7
+45,2,16,82,nil,2,2009-7-20,Fly Fishing,1
+46,2,17,74,nil,2,2009-7-20,Fly Fishing,1
+47,1,47,1302,nil,1,2009-7-20,"hook and line, Huge Fish!",1
+47,1,47,1280,nil,1,2009-8-14,hook and line,1
+48,1,30,283,nil,3,2009-8-3,hook and line,1
+48,1,29.5,263,nil,3,2009-8-15,hook and line,1
+49,1,30,239,nil,3,2009-8-3,hook and line,1
+50,1,28,233,nil,3,2009-8-3,hook and line,1
+51,1,28,211,nil,3,2009-8-3,hook and line,1
+51,1,27.5,214,nil,3,2009-8-15,hook and line,1
+52,1,30,273,nil,3,2009-8-3,hook and line,1
+53,1,28.5,253,nil,3,2009-8-3,hook and line,1
+53,1,29,242,nil,3,2009-8-15,hook and line,1
+54,1,21,105,nil,4,2009-8-3,hook and line,1
+55,1,31,322,nil,4,2009-8-3,hook and line,1
+55,1,30.5,348.8,nil,4,2009-9-14,nil,12
+56,1,28.5,249,nil,3,2009-8-14,hook and line,1
+57,1,30,257,nil,3,2009-8-14,hook and line,1
+58,1,26,217,nil,3,2009-8-14,hook and line,1
+59,1,26,206,nil,3,2009-8-14,hook and line,1
+60,7,nil,nil,nil,nil,nil,Tag fell out of fish,1
+61,1,30,256,nil,3,2009-8-14,hook and line,1
+62,1,28.5,226,nil,3,2009-8-14,hook and line,1
+63,1,28,218,nil,3,2009-8-14,hook and line,1
+64,2,26,186,nil,1,2009-8-14,hook and line,1
+67,2,19,146,nil,3,2009-8-15,hook and line,1
+68,1,27.5,217,nil,3,2009-8-15,hook and line,1
+69,1,30,280,nil,3,2009-8-15,hook and line,1
+70,2,16,95,nil,3,2009-8-15,hook and line,1
+71,7,nil,nil,nil,nil,nil,Tag fell out of fish,1
+72,2,24,294,nil,3,2009-8-15,hook and line,1
+72,2,23,254,nil,3,2009-9-15,nil,13
+73,1,29.5,245,nil,3,2009-8-15,hook and line,1
+74,1,30,293,nil,3,2009-8-15,hook and line,1
+75,1,33,366,nil,3,2009-8-15,hook and line,1
+76,1,29,283,nil,3,2009-8-15,hook and line,1
+77,1,29,242,nil,3,2009-8-15,hook and line,1
+78,1,30.5,269,nil,3,2009-8-15,hook and line,1
+79,1,29,235,nil,3,2009-8-15,hook and line,1
+80,1,29,265,nil,3,2009-8-15,hook and line,1
+81,1,30,280,nil,3,2009-8-15,hook and line,1
+82,1,30,275,nil,3,2009-8-15,hook and line,1
+83,1,28,246,nil,3,2009-8-15,hook and line,1
+84,1,29,251,nil,3,2009-8-15,hook and line,1
+85,2,22.5,221,nil,3,2009-8-15,hook and line,1
+86,1,29,266,nil,3,2009-8-15,hook and line,1
+87,2,23,286,nil,3,2009-8-15,hook and line,1
+87,2,21.4,242.3,nil,3,2009-9-14,nil,12
+88,2,22,255,nil,3,2009-8-15,hook and line,1
+89,1,30,318,nil,3,2009-8-15,hook and line,1
+91,1,30.5,318,nil,3,2009-8-15,hook and line,1
+92,2,17.5,122,nil,3,2009-8-15,hook and line,1
+93,1,28,268,nil,3,2009-8-15,hook and line,1
+94,2,22,232,nil,3,2009-8-15,hook and line,1
+94,2,21.5,227.6,nil,3,2009-9-14,nil,12
+95,1,29.5,262,nil,3,2009-8-15,hook and line,1
+96,2,22,245,nil,3,2009-8-15,hook and line,1
+97,2,22,245,nil,3,2009-8-15,hook and line,1
+98,2,19,151,nil,3,2009-8-15,hook and line,1
+99,2,18,136,nil,3,2009-8-15,hook and line,1
+100,2,18,135,nil,3,2009-8-15,hook and line,1
+101,1,28,207,nil,3,2009-8-15,hook and line,1
+102,1,28.5,248,nil,3,2009-8-15,hook and line,1
+103,1,30,278,nil,3,2009-8-15,hook and line,1
+104,1,29.5,236,nil,3,2009-8-15,hook and line,1
+105,1,30,235,nil,3,2009-8-15,hook and line,1
+106,2,22,253,nil,3,2009-8-15,hook and line,1
+107,7,nil,nil,nil,nil,nil,nil,nil
+108,1,22.4,132.8,nil,3,2009-9-2,hook and line,15
+108,1,22.9,121.8,nil,3,2009-9-15,nil,13
+108,1,23,130,nil,3,2009-9-17,hook and line,11
+109,1,18,74.8,nil,3,2009-9-2,hook and line,15
+110,1,20.7,106.5,nil,4,2009-9-2,hook and line,15
+111,7,nil,nil,nil,nil,nil,nil,nil
+112,7,nil,nil,nil,nil,nil,nil,nil
+113,1,29.1,148.2,nil,3,2009-9-2,hook and line,15
+114,1,19.2,75.4,nil,3,2009-9-2,hook and line,15
+115,7,nil,nil,nil,nil,nil,nil,nil
+116,1,18.7,65.5,nil,C/D,2009-9-2,hook and line,15
+117,7,nil,nil,nil,nil,nil,nil,nil
+118,1,18.1,65.7,nil,C/D,2009-9-2,hook and line,15
+119,2,21.2,268.1,nil,3,2009-9-2,hook and line,15
+119,2,21.3,216,nil,3,2010-9-21,hook and line,16
+120,2,21.1,206,nil,3,2009-9-14,nil,14
+121,2,21.7,244,nil,3,2009-9-14,nil,14
+122,2,17.3,142.3,nil,3,2009-9-14,nil,12
+123,2,15.3,70.9,nil,5,2009-9-14,nil,12
+124,2,15.4,77,nil,5,2009-9-14,nil,12
+125,1,38,590.5,nil,C/D,2009-9-14,nil,12
+126,1,29,248,nil,3,2009-9-15,nil,13
+127,7,nil,nil,nil,nil,nil,nil,nil
+128,1,30.3,283,nil,3,2009-9-15,nil,13
+129,7,nil,nil,nil,nil,nil,nil,nil
+130,2,21.7,245.4,nil,3,2009-9-15,nil,13
+131,2,22.1,221.6,nil,3,2009-9-15,nil,13
+132,2,17.8,119,nil,3,2009-9-15,nil,13
+133,2,22.3,222.8,nil,3,2009-9-15,nil,13
+134,2,22,238.7,nil,3,2009-9-15,nil,13
+135,4,18,120.8,nil,2,2009-9-15,nil,10
+136,4,19,118.2,nil,2,2009-9-15,nil,10
+137,4,17.5,85.3,nil,2,2009-9-15,nil,10
+138,7,nil,nil,nil,nil,nil,nil,nil
+139,7,nil,nil,nil,nil,nil,nil,nil
+140,2,19.7,161,nil,2,2009-9-15,nil,10
+141,2,17.5,83.4,nil,2,2009-9-15,nil,10
+142,6,17,79.2,nil,2,2009-9-15,nil,10
+143,4,12.5,80.4,nil,2,2009-9-15,nil,10
+144,2,17,75,nil,2,2009-9-15,nil,10
+145,2,20,156.4,nil,1,2009-9-15,nil,10
+146,4,17,97,nil,1,2009-9-15,nil,10
+147,4,20.5,133,nil,2,2009-9-15,nil,10
+148,2,20,134,nil,2,2009-9-15,nil,10
+149,2,17,79.6,nil,2,2009-9-15,nil,10
+150,4,18,89.4,nil,2,2009-9-15,nil,10
+152,1,18,67.3,nil,3,2009-9-17,nil,11
+153,2,18,119.6,nil,3,2009-9-17,nil,11
+161,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+162,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+163,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+164,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+165,4,22,268.5,nil,3,2010-9-21,hook and line,16
+166,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+167,1,29,290.5,nil,3,2010-9-21,hook and line,16
+168,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+169,1,23.6,162.1,nil,3,2010-9-21,hook and line,16
+170,4,18.5,143,nil,4,2010-9-21,hook and line,16
+171,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+172,8,18.6,164.5,nil,3,2010-9-21,hook and line,16
+173,7,nil,nil,nil,nil,nil,Tag fell out of fish,16
+174,2,22.1,189.5,nil,3,2010-9-21,hook and line,16
+175,2,16.1,85.3,nil,3,2010-9-21,hook and line,16
+176,4,18.9,116.2,nil,2,2010-9-20,hook and line,9
+177,7,nil,nil,nil,nil,nil,Tag fell out of fish,nil
+178,2,16.2,73.7,nil,2,2010-9-20,hook and line,9
+179,3,19,124.2,nil,2,2010-9-20,hook and line,9
+180,4,16.2,64.5,nil,2,2010-9-20,hook and line,9
+181,2,22.8,211.1,nil,1,2010-9-21,hook and line,16
+182,2,17.5,98.6,nil,1,2010-9-21,hook and line,16
+183,2,17.5,96.8,nil,2,2010-9-20,hook and line,9
+183,6,17.5,82.6,nil,2,2010-9-21,hook and line,7
+184,2,19.3,130.2,nil,1,2010-9-21,hook and line,16
+185,2,21,138,nil,2,2010-9-20,hook and line,9
+186,7,nil,nil,nil,nil,nil,Tag fell out of fish,nil
+187,3,15.7,58.2,nil,2,2010-9-20,hook and line,9
+188,2,18.9,118,nil,2,2010-9-20,hook and line,9
+189,2,19,114,nil,2,2010-9-20,hook and line,9
+190,2,17.2,93.4,nil,1,2010-9-21,hook and line,16
+191,2,23.9,283.4,nil,1,2010-9-21,hook and line,16
+192,2,15,57.2,nil,2,2010-9-20,hook and line,9
+193,2,15,47.5,nil,2,2010-9-20,hook and line,9
+194,2,21.5,175.3,nil,3,2010-9-21,hook and line,16
+195,2,16.4,80.5,nil,1,2010-9-21,hook and line,16
+196,2,18.4,108.5,nil,3,2010-9-21,hook and line,16
+196,6,17,108,nil,1,2010-9-21,hook and line,7
+197,6,15.3,57,nil,5,2010-9-21,hook and line,16
+197,6,16,58,nil,5,2010-9-23,hook and line,8
+202,2,20.6,203.7,nil,3,2010-9-21,hook and line,16
+203,4,17.7,117.9,nil,3,2010-9-21,hook and line,16
+204,1,23.5,156.4,nil,3,2010-9-21,hook and line,16
+206,2,14.8,120.5,nil,2,2010-9-21,hook and line,7
+207,6,18.7,98.5,nil,2,2010-9-21,hook and line,7
+208,2,18,92.3,nil,2,2010-9-21,hook and line,7
+209,7,nil,nil,nil,nil,nil,nil,nil
+210,3,16,52.6,nil,2,2010-9-21,hook and line,7
+213,2,17.5,81.4,nil,2,2010-9-21,hook and line,7
+215,4,16,59.5,nil,2,2010-9-21,hook and line,7
+216,3,15,52.6,nil,2,2010-9-21,hook and line,7
+217,2,15.5,57.3,nil,2,2010-9-21,hook and line,7
+218,2,22.3,191.9,nil,2,2010-9-21,hook and line,7
+219,2,18,88.7,nil,2,2010-9-21,hook and line,7
+220,2,15.5,60,nil,1,2010-9-21,hook and line,7
+221,2,19.8,102,nil,2,2010-9-21,hook and line,7
+224,2,20.8,169.5,nil,3,2010-9-23,hook and line,8
+228,2,22.4,232.2,nil,3,2010-9-23,hook and line,8
+249,1,16.6,57.8,nil,3,2010-9-23,hook and line,8
+252,7,nil,nil,nil,nil,nil,nil,nil
+253,2,18.2,115.7,nil,2,2010-10-22,Skinny Body. Possibly Hybrid,5 
+254,2,19.2,134.2,true,2,2010-10-22,Skinny Body. Possibly Hybrid,5 
+255,2,16.7,80.3,nil,1,2010-10-22,Skinny Body. Possibly Hybrid,5 
+256,2,17.3,97.2,nil,1,2010-10-22,Skinny Body. Possibly Hybrid,5 
+257,2,16.2,68.5,nil,1,2010-10-22,Skinny Body. Possibly Hybrid,5 
+258,2,18,99.5,nil,2,2010-10-14,hook and line,5 
+259,2,21.1,156.4,nil,2,2010-10-14,hook and line,5 
+260,2,15.5,65.3,true,2,2010-10-14,hook and line,5 
+261,2,18.5,100.1,nil,2,2010-10-14,hook and line,5 
+262,3,15.5,66.5,nil,2,2010-10-14,hook and line,5 
+263,6,20.1,137.5,nil,2,2010-10-14,hook and line,5 
+264,4,15.3,61.3,nil,2,2010-10-14,hook and line,5 
+265,6,15.7,67.5,nil,2,2010-10-14,hook and line,5 
+266,7,nil,nil,nil,nil,nil,nil,nil
+267,2,15.2,60.2,nil,2,2010-10-14,hook and line,5 
+268,2,19.3,138.7,nil,2,2010-10-14,hook and line,5 
+269,7,nil,nil,nil,nil,nil,nil,nil
+270,2,15,64.8,nil,2,2010-10-14,hook and line,5 
+271,2,21.2,221.8,nil,3,2010-10-7,hook and line,6
+273,1,31,312.2,nil,3,2010-10-7,hook and line,6
+274,1,2.25,234.2,nil,4,2010-10-7,hook and line,6
+301,2,18.7,116.3,nil,2,2010-10-22,Skinny Body. Possibly Hybrid,5 
+302,7,nil,nil,nil,nil,nil,nil,nil
+303,7,nil,nil,nil,nil,nil,nil,nil
+307,1,14,nil,nil,1,2011-6-14,stocked on this date,4
+308,1,12,nil,nil,1,2011-6-14,stocked on this date,4
+309,1,12,nil,nil,1,2011-6-14,stocked on this date,4
+311,1,12,nil,nil,1,2011-6-14,stocked on this date,4
+316,5,10,nil,nil,1,2011-6-14,stocked on this date,4
+317,5,10,nil,nil,1,2011-6-14,stocked on this date,4
+318,5,10,nil,nil,1,2011-6-14,stocked on this date,4
+319,5,10,nil,nil,1,2011-6-14,stocked on this date,4
+nil,2,10.2,17.4,nil,2,2010-9-20,nil,nil
+nil,2,14.9,17.4,nil,2,2010-9-20,nil,nil
+nil,3,12.8,32.6,nil,2,2010-9-20,nil,nil
+nil,3,13.1,26.7,nil,2,2010-9-20,nil,nil
+nil,3,14.5,42.8,nil,2,2010-9-20,nil,nil
+nil,3,15.3,25.1,nil,2,2010-9-20,nil,nil
+nil,3,14,35.8,nil,2,2010-9-20,nil,nil
+nil,3,15.5,57.9,nil,2,2010-9-20,nil,nil
+nil,2,12.5,28.5,nil,2,2010-9-20,nil,nil
+nil,3,12,25.7,nil,2,2010-9-20,nil,nil
+nil,4,13,50.2,nil,2,2010-9-20,nil,nil
+nil,2,14,64.1,nil,2,2010-9-20,nil,nil
+nil,6,15,53,nil,2,2010-9-20,nil,nil
+nil,2,12,30.6,nil,2,2010-9-20,nil,nil
+nil,3,12.8,27.9,nil,2,2010-9-20,nil,nil
+nil,3,17.5,30.8,nil,2,2010-9-20,nil,nil
+nil,3,19.3,38.6,nil,2,2010-9-20,nil,nil
+nil,3,14.1,16.2,nil,2,2010-9-20,nil,nil
+nil,2,13.6,39,nil,2,2010-9-20,nil,nil
+nil,2,14.8,53.5,nil,2,2010-9-20,nil,nil
+nil,3,11.7,21.1,nil,2,2010-9-20,nil,nil
+nil,2,13.9,13.2,nil,1,2010-9-20,nil,nil
+nil,2,12.5,27.2,nil,1,2010-9-20,nil,nil
+nil,2,16.4,96,nil,3,2010-9-21,nil,nil
+nil,2,14.6,63.5,nil,3,2010-9-21,nil,nil
+nil,2,16.8,107.3,nil,3,2010-9-21,nil,nil
+nil,6,12.3,32.2,nil,5,2010-9-21,nil,nil
+nil,6,13.2,39,nil,5,2010-9-21,nil,nil
+nil,4,11.3,24.7,nil,5,2010-9-21,nil,nil
+nil,4,11.1,21.9,nil,5,2010-9-21,nil,nil
+nil,4,12,29.5,nil,5,2010-9-21,nil,nil
+nil,6,1.2,24.5,nil,5,2010-9-21,nil,nil
+nil,4,9.7,13.2,nil,5,2010-9-21,nil,nil
+nil,4,11.3,22.7,nil,5,2010-9-21,nil,nil
+nil,4,9.6,6.7,nil,5,2010-9-21,nil,nil
+nil,6,14.5,48.2,nil,5,2010-9-21,nil,nil
+nil,4,8.4,7.8,nil,5,2010-9-21,nil,nil
+nil,4,8.7,4,nil,5,2010-9-21,nil,nil
+nil,6,13.9,39.6,nil,5,2010-9-21,nil,nil
+nil,4,13,26.2,nil,5,2010-9-21,nil,nil
+nil,4,8,4.2,nil,5,2010-9-21,nil,nil
+nil,4,8,4.8,nil,5,2010-9-21,nil,nil
+nil,4,11.8,19.8,nil,5,2010-9-21,nil,nil
+nil,6,10.9,20.3,nil,5,2010-9-21,nil,nil
+nil,6,11,20.6,nil,5,2010-9-21,nil,nil
+nil,6,12.7,20.6,nil,5,2010-9-21,nil,nil
+nil,4,10.2,18.3,nil,5,2010-9-21,nil,nil
+nil,4,9.4,14.1,nil,5,2010-9-21,nil,nil
+nil,6,8.5,10.9,nil,5,2010-9-21,nil,nil
+nil,4,8.5,11.5,nil,5,2010-9-21,nil,nil
+nil,4,13.7,36.2,nil,5,2010-9-21,nil,nil
+nil,4,10.9,12.6,nil,5,2010-9-21,nil,nil
+nil,4,9.9,9.2,nil,5,2010-9-21,nil,nil
+nil,2,12.7,31.2,nil,5,2010-9-21,nil,nil
+nil,4,13.6,42.6,nil,5,2010-9-21,nil,nil
+nil,6,8.6,8.5,nil,5,2010-9-21,nil,nil
+nil,4,11.5,22.3,nil,5,2010-9-21,nil,nil
+nil,6,1.9,13.2,nil,5,2010-9-21,nil,nil
+nil,6,9.7,15.6,nil,5,2010-9-21,nil,nil
+nil,6,12.4,8.8,nil,5,2010-9-21,nil,nil
+nil,6,10.4,15.1,nil,5,2010-9-21,nil,nil
+nil,6,10,17.5,nil,5,2010-9-21,nil,nil
+nil,6,7.5,7.6,nil,5,2010-9-21,nil,nil
+nil,6,11.5,25.6,nil,5,2010-9-21,nil,nil
+nil,4,8.4,8.5,nil,5,2010-9-21,nil,nil
+nil,6,11.9,28.6,nil,5,2010-9-21,nil,nil
+nil,6,8.1,9.3,nil,5,2010-9-21,nil,nil
+nil,6,8,7.4,nil,5,2010-9-21,nil,nil
+nil,4,10.7,13,nil,5,2010-9-21,nil,nil
+nil,4,10,14.2,nil,5,2010-9-21,nil,nil
+nil,4,9,9.1,nil,5,2010-9-21,nil,nil
+nil,4,8.1,6.5,nil,5,2010-9-21,nil,nil
+nil,6,10,16,nil,5,2010-9-21,nil,nil
+nil,6,11.8,28.4,nil,5,2010-9-21,nil,nil
+nil,4,14,41,nil,5,2010-9-21,nil,nil
+nil,6,10.3,16.6,nil,5,2010-9-21,nil,nil
+nil,6,11.9,29.8,nil,5,2010-9-21,nil,nil
+nil,6,8.2,6.5,nil,5,2010-9-21,nil,nil
+nil,4,10.9,22.3,nil,5,2010-9-21,nil,nil
+nil,3,nil,nil,nil,1,2010-9-21,nil,nil
+nil,2,nil,nil,nil,1,2010-9-21,nil,nil
+nil,2,nil,nil,nil,1,2010-9-21,nil,nil
+nil,2,nil,nil,nil,1,2010-9-21,nil,nil
+nil,2,nil,nil,nil,1,2010-9-21,nil,nil
+nil,3,13.6,13.2,nil,1,2010-9-21,nil,nil
+nil,3,12.4,15.2,nil,1,2010-9-21,nil,nil
+nil,2,15.8,58.6,nil,2,2010-9-21,nil,nil
+nil,2,15.8,54.6,nil,2,2010-9-21,nil,nil
+nil,2,23.8,242.5,nil,1,2010-9-21,Hook stuck in mouth - cut it out,nil
+nil,3,13.3,24.2,nil,1,2010-9-21,nil,nil
+nil,3,12.4,6.6,nil,1,2010-9-21,nil,nil
+nil,3,13,31.9,nil,1,2010-9-21,nil,nil
+nil,3,12.6,28.8,nil,1,2010-9-21,nil,nil
+nil,3,nil,nil,nil,1,2010-9-21,nil,nil
+nil,2,nil,nil,nil,1,2010-9-21,nil,nil
+nil,6,16.5,69,nil,2,2010-9-21,Out of water too long,nil
+nil,3,12.5,82.6,nil,2,2010-9-21,nil,nil
+nil,4,12,22,nil,2,2010-9-21,nil,nil
+nil,3,14.4,21.9,nil,2,2010-9-21,nil,nil
+nil,4,13.9,40.9,nil,2,2010-9-21,nil,nil
+nil,4,15.1,21.2,nil,2,2010-9-21,nil,nil
+nil,3,14.9,39.2,nil,2,2010-9-21,nil,nil
+nil,4,13.4,39.2,nil,2,2010-9-21,nil,nil
+nil,3,13.5,35.9,nil,2,2010-9-21,nil,nil
+nil,3,12.9,26,nil,2,2010-9-21,nil,nil
+nil,4,15,49.3,nil,2,2010-9-21,nil,nil
+nil,4,13,39.6,nil,2,2010-9-21,nil,nil
+nil,4,4,1.4,nil,2,2010-9-21,nil,nil
+nil,4,14,37.1,nil,2,2010-9-21,nil,nil
+nil,3,12,25.4,nil,2,2010-9-21,nil,nil
+nil,2,21.5,221.3,nil,3,2010-9-23,Not tagged:took too long,nil
+nil,2,7.6,nil,nil,3,2010-9-23,tagged 3 times,nil
+nil,2,22.4,252,nil,3,2010-9-23,took too long to tag,nil
+nil,2,18.5,143.8,nil,3,2010-9-23,took too long to tag/swallowed hook,nil
+nil,2,22.5,171,nil,3,2010-9-23,took too long to tag,nil
+nil,2,20,203.5,nil,3,2010-9-23,nil,nil
+nil,2,nil,nil,nil,5,2010-9-23,Swallowed hook/ blood loss: died,nil
+nil,2,nil,nil,nil,5,2010-9-23,Swallowed hook/ blood loss: died,nil
+nil,2,11,21.8,nil,5,2010-9-23,nil,nil
+nil,6,7,8,nil,5,2010-9-23,nil,nil
+nil,6,8,12,nil,5,2010-9-23,nil,nil
+nil,2,11,21,nil,5,2010-9-23,nil,nil
+nil,6,11,21,nil,5,2010-9-23,nil,nil
+nil,6,11,25,nil,5,2010-9-23,nil,nil
+nil,4,17,107,nil,5,2010-9-23,nil,nil
+nil,1,10.5,11.4,nil,3,2010-9-23,nil,nil
+nil,2,9.8,15.1,nil,3,2010-9-23,nil,nil
+nil,3,14,42,nil,5,2010-9-23,nil,nil
+nil,3,8,11,nil,5,2010-9-23,nil,nil
+nil,2,11,21,nil,5,2010-9-23,nil,nil
+nil,2,11,20,nil,5,2010-9-23,nil,nil
+nil,2,12,35,nil,5,2010-9-23,nil,nil
+nil,4,12,32,nil,5,2010-9-23,nil,nil
+nil,2,14,51,nil,5,2010-9-23,nil,nil
+nil,3,10,11.4,nil,5,2010-9-23,nil,nil
+nil,2,12,33,nil,5,2010-9-23,nil,nil
+nil,3,9,16,nil,5,2010-9-23,nil,nil
+nil,2,14,36,nil,5,2010-9-23,nil,nil
+nil,3,9,18,nil,5,2010-9-23,nil,nil
+nil,2,14,46.2,nil,5,2010-9-23,nil,nil
+nil,3,11,15,nil,5,2010-9-23,nil,nil
+nil,2,nil,nil,nil,5,2010-9-23,Swallowed hook and threw out,nil
+nil,4,10,25,nil,5,2010-9-23,nil,nil
+nil,4,13,40.1,nil,2,2010-10-14,nil,nil
+nil,3,14.2,42.3,nil,2,2010-10-14,nil,nil
+nil,2,13.9,43.5,nil,2,2010-10-14,nil,nil
+nil,3,14.7,50.1,nil,2,2010-10-14,nil,nil
+nil,2,12.1,2.8,nil,2,2010-10-14,nil,nil
+nil,2,13.6,40.1,true,1,2010-10-22,nil,nil
+nil,4,16.5,74.5,nil,2,2010-10-22,Tried 3 times,nil
+nil,3,15.2,55.8,nil,2,2010-10-22,Tried 3 times,nil
+nil,2,10.4,19.6,nil,5,2009-9-14,nil,12
+nil,3,13.9,44,nil,5,2009-9-14,nil,12
+nil,3,10.9,18.7,nil,5,2009-9-14,nil,12
+nil,3,9.4,13.7,nil,5,2009-9-14,nil,12
+nil,4,12.5,31.8,nil,5,2009-9-14,nil,12
+nil,2,10.3,14.7,nil,5,2009-9-14,nil,12
+nil,2,10.3,22.2,nil,5,2009-9-14,nil,12
+nil,2,10.9,25.2,nil,5,2009-9-14,nil,12
+nil,2,1.3,25.2,nil,5,2009-9-14,nil,12
+nil,2,11.5,24.5,nil,5,2009-9-14,nil,12
+nil,2,11.3,21.4,nil,5,2009-9-14,nil,12
+nil,4,11.6,20,nil,5,2009-9-14,nil,12
+nil,3,7.9,5.5,nil,3,2009-9-14,nil,12
+nil,2,9.6,13.3,nil,5,2009-9-14,nil,12
+nil,2,12.2,35.2,nil,5,2009-9-14,nil,12
+nil,2,13.8,49.5,nil,5,2009-9-14,nil,12
+nil,2,13.3,38.2,nil,5,2009-9-14,nil,12
+nil,2,14.7,66.1,nil,5,2009-9-14,nil,12
+nil,2,11,23.6,nil,3,2009-9-14,nil,12
+nil,2,9.6,17.5,nil,5,2009-9-14,nil,12
+nil,2,9.2,16.2,nil,5,2009-9-14,nil,12
+nil,2,8.4,10.5,nil,5,2009-9-14,nil,12
+nil,2,10.1,16.2,nil,5,2009-9-14,nil,12
+nil,2,1.2,28.1,nil,5,2009-9-14,nil,12
+nil,2,12.9,36.5,nil,5,2009-9-14,nil,12
+nil,2,9.3,16.7,nil,3,2009-9-14,nil,12
+nil,2,10,17.8,nil,5,2009-9-14,nil,12
+nil,2,10.4,19.6,nil,5,2009-9-14,nil,12
+nil,2,11.3,25.4,nil,5,2009-9-14,nil,12
+nil,2,10.8,23.2,nil,5,2009-9-14,nil,12
+nil,2,11.7,27.6,nil,5,2009-9-14,nil,12
+nil,2,10,19.6,nil,5,2009-9-14,nil,12
+nil,2,9.4,15.4,nil,5,2009-9-14,nil,12
+nil,2,10.5,26.7,nil,5,2009-9-14,nil,12
+nil,2,10.6,18.6,nil,5,2009-9-14,nil,12
+nil,2,10.7,19.6,nil,5,2009-9-14,nil,12
+nil,3,9.4,15.4,nil,5,2009-9-14,nil,12
+nil,2,10.1,19.4,nil,5,2009-9-14,nil,12
+nil,2,17,108,nil,5,2009-9-15,nil,3
+nil,2,10,18.5,nil,5,2009-9-15,nil,3
+nil,3,8.9,10.7,nil,5,2009-9-15,nil,3
+nil,3,7.4,6,nil,5,2009-9-15,nil,3
+nil,1,6.5,2.9,nil,5,2009-9-15,nil,3
+nil,1,11.4,16,nil,5,2009-9-15,nil,3
+nil,1,10.9,14,nil,3,2009-9-15,nil,3
+nil,2,9.7,14.9,nil,3,2009-9-15,nil,3
+nil,1,9.7,10.3,nil,3,2009-9-15,nil,3
+nil,2,7.5,7.3,nil,3,2009-9-15,nil,3
+nil,2,8.3,8.4,nil,3,2009-9-15,nil,3
+nil,2,12.6,33.9,nil,5,2009-9-15,nil,3
+nil,2,10.6,20.3,nil,5,2009-9-15,nil,3
+nil,2,12.5,36.7,nil,5,2009-9-15,nil,3
+nil,2,10.5,19,nil,5,2009-9-15,nil,3
+nil,1,12.3,21.2,nil,3,2009-9-15,nil,3
+nil,2,11.4,21.8,nil,5,2009-9-15,nil,3
+nil,1,9.9,12.7,nil,3,2009-9-15,nil,3
+nil,2,11,22.5,nil,5,2009-9-15,nil,3
+nil,2,8.8,12.5,nil,5,2009-9-15,nil,3
+nil,1,12.5,23.5,nil,3,2009-9-15,nil,3
+nil,2,10.1,15.7,nil,5,2009-9-15,nil,3
+nil,2,12,24.8,nil,5,2009-9-15,nil,3
+nil,2,9.1,13.5,nil,3,2009-9-15,nil,3
+nil,2,9.4,15.4,nil,3,2009-9-15,nil,3
+nil,2,11.6,31.5,nil,5,2009-9-15,nil,3
+nil,2,8.5,11.2,nil,5,2009-9-15,nil,3
+nil,2,10.6,23.7,nil,5,2009-9-15,nil,3
+nil,2,10.6,19.6,nil,5,2009-9-15,nil,3
+nil,2,9.6,13.5,nil,5,2009-9-15,nil,3
+nil,2,11,19.6,nil,5,2009-9-15,nil,3
+nil,2,9.5,11.9,nil,5,2009-9-15,nil,3
+nil,2,10.8,20.4,nil,5,2009-9-15,nil,3
+nil,2,15,60.6,nil,2,2009-9-15,nil,2
+nil,3,14,36,nil,2,2009-9-15,nil,2
+nil,3,14.2,43.2,nil,2,2009-9-15,nil,2
+nil,3,14.3,47.2,nil,2,2009-9-15,nil,2
+nil,4,16.1,64.1,nil,2,2009-9-15,nil,2
+nil,3,14.3,48.6,nil,2,2009-9-15,nil,2
+nil,6,16.8,75.5,nil,2,2009-9-15,nil,2
+nil,2,16,59.3,nil,2,2009-9-15,nil,2
+nil,2,15.5,59,nil,2,2009-9-15,nil,2
+nil,2,15.5,62,nil,2,2009-9-15,nil,2
+nil,2,19.9,136.4,nil,2,2009-9-15,nil,2
+nil,2,18,107.5,nil,2,2009-9-15,nil,2
+nil,3,15.1,60.1,nil,2,2009-9-15,nil,2
+nil,2,11,26.4,nil,2,2009-9-15,nil,2
+nil,3,15,48.6,nil,2,2009-9-15,nil,2
+nil,3,14,35.2,nil,2,2009-9-15,nil,2
+nil,2,13,32.8,nil,2,2009-9-15,nil,2
+nil,4,17,80.5,nil,2,2009-9-15,nil,2
+nil,2,12.2,32.4,nil,2,2009-9-15,nil,2
+nil,4,11.9,30.1,nil,2,2009-9-15,nil,2
+nil,4,13.4,30.9,nil,2,2009-9-15,nil,2
+nil,4,13,34.1,nil,2,2009-9-15,nil,2
+nil,2,10.5,20,nil,2,2009-9-15,nil,2
+nil,4,13,32.7,nil,2,2009-9-15,nil,2
+nil,4,12.5,23,nil,2,2009-9-15,nil,2
+nil,3,12,23,nil,2,2009-9-15,nil,2
+nil,4,12.2,25.2,nil,2,2009-9-15,nil,2
+nil,3,13.3,34.1,nil,2,2009-9-15,nil,2
+nil,2,14.9,49.7,nil,2,2009-9-15,nil,2
+nil,3,15,52.5,nil,2,2009-9-15,nil,2
+nil,4,15.3,20.3,nil,2,2009-9-15,nil,2
+nil,3,11.5,26.2,nil,2,2009-9-15,nil,2
+nil,4,12.5,32,nil,2,2009-9-15,nil,2
+nil,4,17,68.8,nil,2,2009-9-15,nil,2
+nil,3,11.9,29.9,nil,2,2009-9-15,nil,2
+nil,3,8,10.8,nil,2,2009-9-15,nil,2
+nil,3,12.5,23.8,nil,2,2009-9-15,nil,2
+nil,2,15,55.5,nil,2,2009-9-15,nil,2
+nil,4,15.6,59.1,nil,2,2009-9-15,nil,2
+nil,4,17.7,110.3,nil,2,2009-9-15,nil,2
+nil,2,16,65.2,nil,2,2009-9-15,nil,2
+nil,3,13,27,nil,1,2009-9-15,nil,2
+nil,2,14,44,nil,1,2009-9-15,nil,2
+nil,2,12,24,nil,1,2009-9-15,nil,2
+nil,2,12,22,nil,1,2009-9-15,nil,2
+nil,2,13,37.7,nil,1,2009-9-15,nil,2
+nil,6,12.6,36.6,nil,1,2009-9-15,nil,2
+nil,3,12.1,29.4,nil,1,2009-9-15,nil,2
+nil,2,12,30.2,nil,1,2009-9-15,nil,2
+nil,2,13.5,44.5,nil,1,2009-9-15,nil,2
+nil,3,11.8,25.1,nil,1,2009-9-15,nil,2
+nil,3,12.2,24.8,nil,1,2009-9-15,nil,2
+nil,2,15,53,nil,1,2009-9-15,nil,2
+nil,2,14.5,46,nil,1,2009-9-15,nil,2
+nil,2,13.5,46.2,nil,1,2009-9-15,nil,2
+nil,2,12,21.4,nil,1,2009-9-15,nil,2
+nil,2,12.5,34.2,nil,1,2009-9-15,nil,2
+nil,2,12,28.5,nil,1,2009-9-15,nil,2
+nil,2,12,30,nil,1,2009-9-15,nil,2
+nil,4,11.5,25,nil,1,2009-9-15,nil,2
+nil,4,10.5,19.5,nil,1,2009-9-15,nil,2
+nil,2,13.5,37.1,nil,1,2009-9-15,nil,2
+nil,2,12,23,nil,1,2009-9-15,nil,2
+nil,2,22,19.8,nil,1,2009-9-15,nil,2
+nil,3,10,11.6,nil,1,2009-9-15,nil,2
+nil,2,13.9,37.8,nil,1,2009-9-15,nil,2
+nil,2,14.3,39.7,nil,1,2009-9-15,nil,2
+nil,2,12,21.3,nil,1,2009-9-15,nil,2
+nil,2,17,11,nil,1,2009-9-15,nil,2
+nil,2,12.1,21.8,nil,1,2009-9-15,nil,2
+nil,3,11,15.5,nil,1,2009-9-15,nil,2
+nil,1,11.5,15.3,nil,3,2009-9-17,nil,2
+nil,2,8,8,nil,3,2009-9-17,nil,2
+nil,2,8,8.6,nil,3,2009-9-17,nil,2
+nil,1,9.5,10.7,nil,3,2009-9-17,nil,2
+nil,2,7.5,5.5,nil,3,2009-9-17,nil,2
+nil,1,10.5,9,nil,3,2009-9-17,nil,2
+nil,2,10,8.2,nil,3,2009-9-17,nil,2
+nil,2,16,nil,nil,4,2009-9-17,nil,2
+nil,2,11,nil,nil,4,2009-9-17,nil,2
+nil,2,17,nil,nil,4,2009-9-17,nil,2

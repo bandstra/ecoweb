@@ -1,0 +1,35 @@
+<h1>Listing organisms</h1>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Group</th>
+    <th>Common name</th>
+    <th>Binominal name</th>
+    <th>Family</th>
+    <th>Wikipedia link</th>
+    <th>Image</th>
+    <th>Show</th>
+    <th>Edit</th>
+    <th>Destroy</th>
+  </tr>
+
+<% @organisms.each do |organism| %>
+  <tr>
+    <td><%= organism.id %></td>
+    <td><%= organism.group.title %></td>
+    <td><%= organism.common_name %></td>
+    <td><%= organism.binominal_name %></td>
+    <td><%= organism.family %></td>
+    <td><%= organism.wikipedia_entry %></td>
+    <td><%= organism.image_id %></td>
+    <td><%= link_to 'Show', organism %></td>
+    <td><%= link_to 'Edit', edit_organism_path(organism) %></td>
+    <td><%= link_to 'Destroy', organism, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Organism', new_organism_path %>

@@ -1,0 +1,42 @@
+<%= form_for(@organism) do |f| %>
+  <% if @organism.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@organism.errors.count, "error") %> prohibited this organism from being saved:</h2>
+
+      <ul>
+      <% @organism.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+   <div class="field">
+    <%= f.label :group %><br />
+	<% group = Group.order(:title) %>
+    <%= collection_select(:organism, :group_id, group, :id, :title, :prompt => true) %>
+  </div>
+   <div class="field">
+    <%= f.label :common_name %><br />
+    <%= f.text_field :common_name %>
+  </div>
+  <div class="field">
+    <%= f.label :binominal_name %><br />
+    <%= f.text_field :binominal_name %>
+  </div>
+  <div class="field">
+    <%= f.label :family %><br />
+    <%= f.text_field :family %>
+  </div>
+  <div class="field">
+    <%= f.label :image %><br />
+    <%= f.text_field :image_id %>
+  </div>
+ <div class="field">
+    <%= f.label :wikipedia_entry %><br />
+    <%= f.text_field :wikipedia_entry %>
+  </div>
+ <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

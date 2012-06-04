@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ecoweb</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body id="app">
+	<div id="banner">
+		<h2><%= @page_title || "Ecoweb" %></h2>
+	</div>
+	<div id="linkbar">
+	  <% if current_user %>
+	    Logged in as "<%= current_user.avatar %>" |
+	    <%= link_to 'Log out', :controller => "sessions", :action => "destroy" %> |
+	  <% else %>
+	    <%= link_to "Sign up", new_user_path %> or 
+	    <%= link_to 'Log in', new_session_path %> |
+	  <% end %>
+	  <%= link_to 'Home', :controller => "pages", :action => "home" %> |
+	  <%= link_to 'About', :controller => "pages", :action => "about" %> |
+	  <%= link_to 'New sighting', new_sighting_path %> |
+	  <%= link_to 'All sightings', sightings_path %>
+	</div>
+	<div id="flash">
+	<% flash.each do |name, msg| %>
+    	<%= content_tag :div, msg, :id => "flash#{name}" %>
+  	<% end %>
+
+	<div id="main">
+		<%= yield %>
+	</div>
+	<div id="footer">
+	<%= Time.now.year %> • a joint project of the <a href="http://www.outdoordiscoverycenter.org">Outdoor Discovery Center Macatawa Greenway</a> and <a href="http://www.hope.edu">Hope College</a>
+	</div>
+
+</body>
+</html>

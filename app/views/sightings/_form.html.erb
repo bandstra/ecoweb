@@ -1,0 +1,70 @@
+<%= form_for(@sighting) do |f| %>
+  <% if @sighting.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@sighting.errors.count, "error") %> prohibited this sighting from being saved:</h2>
+
+      <ul>
+      <% @sighting.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+<p>
+  <div class="field">
+    <%= f.label :organism_id %><br />
+    <%= collection_select(:organism, :common_name, Organism.all, :id, :common_name, :prompt => true) %>
+  </div>
+</p>
+<p>
+  <div class="field">
+    <%= f.label :location_id %><br />
+    <%= collection_select(:location, :name, Location.all, :id, :name, :prompt => true) %>
+  </div>
+</p>
+<p>
+  <div class="field">
+    <%= f.label :length %> in centimeters<br />
+    <%= f.text_field :length %>
+  </div>
+</p>
+<p>
+  <div class="field">
+    <%= f.label :weight %> in grams<br />
+    <%= f.text_field :weight %>
+  </div>
+</p>
+<p>
+  <div class="field">
+    <%= f.label "Is there evidence of a parasite?" %><br />
+    <%= f.radio_button :parasite, :false, {:checked => true} %>
+	<%= f.label :parasite, 'No', :value => :false %><br />
+    <%= f.radio_button :parasite, :true %>
+	<%= f.label :parasite, 'Yes', :value => :true %>
+  </div>
+</p>
+<p>
+  <div class="field">
+    <%= f.label :note %><br />
+    <%= f.text_field :note %>
+  </div>
+</p>
+<p>
+   <div class="field">
+    <%= f.label "Date and Time" %><br />
+    <%= Time.now %>
+  </div>
+</p>
+<p>
+  <div class="field">
+    <%= f.label :user_id %><br />
+    <%= f.text_field :user_id %>
+  </div>
+</p>
+<p>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+</p>
+<% end %>
