@@ -8,7 +8,9 @@ Ecoweb::Application.routes.draw do
 
   # root :to => "sessions#new"
 
-  root :to => "sightings#index"
+  # root :to => "sightings#index"
+  
+  root :to => "pages#home"
   
   resources :sessions
   get "login" => "sessions#new", :as => "login"
