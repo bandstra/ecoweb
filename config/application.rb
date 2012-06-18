@@ -55,5 +55,9 @@ module Ecoweb
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+    
+    # See http://excid3.com/blog/heroku-actionviewtemplateerror-css-isnt-precompiled/
+    # and https://devcenter.heroku.com/articles/rails3x-asset-pipeline-cedar
+    config.assets.precompile += %w( *.js *.css )
   end
 end

@@ -1,5 +1,38 @@
-<% page_title = "Home" %>
+<% page_title = "Welcome to Ecoweb" %>
 
 <p>
-This page will eventually disply the most recent sightings and site comments.
+This page displays the ten most recent sightings of living things in the Outdoor Discovery Center Ecosystem
 </p>
+
+<p>
+Please add your own sightings! Help us collect data on our ecosystem. Become an Ecoweb Observer! Be a scientist by observing the world of living things and by classifying them in a proper scientific way.
+</p>
+
+<% @sightings = Sighting.find(:all, :order => 'date desc', :limit => 10) %>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Type</th>
+    <th>Organism</th>
+    <th>Picture</th>
+    <th>Observer</th>
+    <th>Comment</th>
+	<th>Show</th>
+  </tr>
+
+<% @sightings.each do |sighting| %>
+	<tr class="<%= cycle('even', 'odd') %>">
+	<td><%= sighting.date %></td>
+	<% group_id = sighting.organism.group_id %>	
+	<td><%= Group.find_by_id(group_id).title %></td>
+	<% organism_id = sighting.organism.id %>
+	<td><%= link_to sighting.organism.common_name, organism_path(organism_id) %></td>
+	<td>Picture</td>
+	<% user_id = sighting.user.id %>
+	<td><%= link_to sighting.user.lastname, user_path(user_id) %></td>
+	<td><%= sighting.note %></td>
+    <td><%= link_to 'Show', sighting %></td>
+    </tr>
+<% end %>
+</table>

@@ -10,6 +10,6 @@ class PagesController < ApplicationController
   end
 
   def home
-    @page_title = "Home"
+    @page_title = "Welcome to Ecoweb"
   end
 end

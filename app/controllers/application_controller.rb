@@ -3,9 +3,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery
   
   helper_method :current_user
-  
-  @page_title = "Welcome to Ecoweb"
-  
+    
 private
 
   def authenticate

@@ -19,9 +19,10 @@
 	    <%= link_to 'Log in', new_session_path %> |
 	  <% end %>
 	  <%= link_to 'Home', :controller => "pages", :action => "home" %> |
-	  <%= link_to 'About', :controller => "pages", :action => "about" %> |
 	  <%= link_to 'New sighting', new_sighting_path %> |
-	  <%= link_to 'All sightings', sightings_path %>
+	  <%= link_to 'All sightings', sightings_path %> |
+	  <%= link_to 'About', :controller => "pages", :action => "about" %> |
+	  <%= link_to 'Contact us', :controller => "pages", :action => "contact" %>
 	</div>
 	<div id="flash">
 	<% flash.each do |name, msg| %>

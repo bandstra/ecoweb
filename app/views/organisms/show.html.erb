@@ -1,21 +1,21 @@
-<p id="notice"><%= notice %></p>
 <p>
-  <b>ID:</b>
-  <%= @organism.id %>
+  <b>Basic type:</b>
+  <% group_id = @organism.group_id %>
+  <%= Group.find_by_id(group_id).title %>
 </p>
 
 <p>
-  <b>Name:</b>
+  <b>Common name:</b>
   <%= @organism.common_name %>
 </p>
 
 <p>
-  <b>Binominal Name:</b>
+  <b>Binominal name:</b>
   <%= @organism.binominal_name %>
 </p>
 
 <p>
-  <b>Family:</b>
+  <b>Family name:</b>
   <%= @organism.family %>
 </p>
 
